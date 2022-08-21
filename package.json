@@ -1,5 +1,6 @@
 {
   "name": "todo",
+  "homepage": "https://maxkellringer.github.io/ToDoList",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
